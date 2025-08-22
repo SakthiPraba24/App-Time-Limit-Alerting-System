@@ -28,3 +28,10 @@ The project promotes healthy digital habits through structured time management a
 screen time regulation. By promoting mindful technology consumption, this 
 project aims to reduce digital addiction, improve productivity, and encourage a 
 balanced lifestyle in the modern digital era. 
+
+#### Requirements
+Flutter SDK
+Android Studio --> For emulators and SDK tools
+VS Code Extensions--> Flutter, Dart 
+
+##### 1.Clone the Repository
