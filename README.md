@@ -52,13 +52,13 @@ flutter run
 
  #### 1. Splash Screen Module
    
-<img width="378" height="594" alt="image" src="https://github.com/user-attachments/assets/d57011e2-b667-42d1-8e31-0a19704ed8da" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/d57011e2-b667-42d1-8e31-0a19704ed8da" />
 
-<img width="392" height="598" alt="image" src="https://github.com/user-attachments/assets/3e79b818-e537-4f59-bf0c-647fbae98fc3" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/3e79b818-e537-4f59-bf0c-647fbae98fc3" />
 
-<img width="392" height="598" alt="image" src="https://github.com/user-attachments/assets/0691d7a8-a584-4e9d-bb45-89117badef52" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/0691d7a8-a584-4e9d-bb45-89117badef52" />
 
-<img width="392" height="598" alt="image" src="https://github.com/user-attachments/assets/2dacce08-0a22-47c9-bdfb-fd9542f60caf" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/2dacce08-0a22-47c9-bdfb-fd9542f60caf" />
 
 #### 2. Registration and Login Module
 
